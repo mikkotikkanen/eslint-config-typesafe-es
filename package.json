@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-typesafe-es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 4",
+    "eslint-plugin-jsdoc": ">= 3"
+  },
+  "scripts": {
+    "test": "eslint ."
+  }
+}
