@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-typesafe-es",
   "version": "1.0.0",
-  "description": "",
+  "description": "ESLint configuration to enforce coding patterns used by TypeScript compiler type inference to achieve type safe(ish) JavaScript.",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "Mikko Tikkanen <mikko.tikkanen@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.8.0",
