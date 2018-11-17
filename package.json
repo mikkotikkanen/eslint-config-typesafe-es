@@ -16,6 +16,8 @@
     "eslint-plugin-jsdoc": ">= 3"
   },
   "scripts": {
+    "preversion": "npm test",
+    "prepublish": "npm test",
     "test": "eslint ."
   }
 }
